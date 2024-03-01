@@ -1,0 +1,18 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+
+
+.primary-background{
+    background-color: #2196f3  !important;
+}
+.justify{
+    text-align: justify;
+    word-spacing: 5px;
+}
+.height{
+    height: 100%;
+}
+
+#Gender{
+    cursor: pointer;
+}
+

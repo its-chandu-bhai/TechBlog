@@ -1,0 +1,107 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Jan 24, 2024, 8:48:00 AM
+    Author     : Chandan Kumar
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* footer start previous
+.footer{
+    background-color: #24262b;
+    padding: 2% 0%;
+    color: white;
+}
+
+a{
+    color:#bbbbbb;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 18px;
+    transition: all 0.2s ease;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: whitesmoke;
+    padding-left: 10px; 
+}
+
+li{
+    list-style: none; 
+    text-decoration: none;
+}
+
+.c1{
+    background-color: tomato;
+}
+
+
+
+.footer-col{
+    width: 75%;
+    text-transform: capitalize;
+}
+
+.footer-col h4{
+    color:#bbbbbb;
+    font-size: 25px;
+    margin-bottom: 3%;
+    font-weight: 400;
+    text-transform: capitalize;
+    position: relative;
+}
+
+.footer-col h4::before{
+    content: "";
+    height: 2px;
+    position: absolute;
+    bottom: -10px;
+    box-sizing: border-box;
+    width: 50px;
+}
+
+.footer-col li:not(:last-child){
+    margin-bottom: 5px;
+}
+
+.footer-col .social-links a{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background-color: rgba(255,255,255,0.2);
+    margin: 0px 10px 10px 0px;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    color:#ffffff;
+}
+
+.footer-col .social-links a:hover{
+    color: #24262b;
+    background-color: #ffffff;
+}
+
+responsive
+@media(max-width:767px){
+    .footer-col{
+        width: 50%;
+        margin-bottom: 30px;
+    }
+}
+@media(max-width:574px){
+    .footer-col{
+        width: 100%;
+    }
+
+footer end  previous
+}*/
+
+
