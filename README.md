@@ -4,6 +4,8 @@ This is my first tech blog project which containts some features like as login, 
 
 This page will have a form where the admin can input their username and password. Upon submission, the credentials will be sent to a servlet for authentication. If authentication is successful, the admin will be redirected to the Admin Dashboard; otherwise, an error message will be displayed. Admin Dashboard (adminDashboard.jsp):
 
+In this project user post his useful thinks to other users. Other users see to their post.
+
 Technologies Used: Servlets: Handle HTTP requests and responses, enabling server-side processing.
 
 JSP (JavaServer Pages): Generates dynamic web pages to interact with users.
